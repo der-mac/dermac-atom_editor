@@ -2,7 +2,7 @@
   "name": "dermac-atom_editor",
   "version": "0.1.0",
   "author": "dermac",
-  "summary": "Installs the application 7-Zip",
+  "summary": "Installs the atom editor.",
   "license": "Apache-2.0",
   "source": "https://github.com/der-mac/dermac-atom_editor",
   "project_page": "https://github.com/der-mac/dermac-atom_editor",
